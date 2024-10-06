@@ -6,4 +6,4 @@ Este projeto é uma página web de currículo profissional desenvolvida utilizan
 Este projeto serve como uma representação digital profissional, destacando habilidades e experiências de forma clara e envolvente.
 
 ## 🎞️ Video Demonstração
-[Clique aqui para ver o vídeo completo de demosntração](https://drive.google.com/file/d/1_AKmnRxAyhHPuL_biTkKFETR-WXMq3ZQ/view?usp=sharing)
+[Clique aqui para ver o vídeo completo de demosntração](https://youtu.be/74Ff0_c5XVY)
